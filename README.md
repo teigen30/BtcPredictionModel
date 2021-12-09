@@ -12,7 +12,7 @@ The stakeholder for this proposal would be the common investor. As the model doe
 
 ## Modeling
 
-### ARIMA
+ARIMA:
 
 An ARIMA model was created by hand and then also using auto ARIMA using the percent change data. The best model was the (1, 0, 0)(0, 0, 0, 0) intercept model. Predictions for the models were less than impressive, with none of the 17 day forecast indicating a negative change in price
 
