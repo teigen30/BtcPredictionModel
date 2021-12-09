@@ -27,4 +27,5 @@ The final model was a Long Short-term memory neural network that had an LSTM lay
 
 
 Recommendations:
+
 Our recommendation is for everyday cryptocurrency investors to use our model as a baseline model and work from there. Whether that means actually coding to enhance the model or using the model in addition to other things to help make decisions when investing. The findings from this research also indicate that there will likely never be a truly accurate prediction model for cryptocurrencies or even stocks for that matter. This is because of something that we can learn from the model, that being that the price of bitcoin depends on far more than simply the recent prices and volumes.
