@@ -21,10 +21,10 @@ Baseline Model:
 The baseline model was a simple ARIMA model. It was found using the pmd arima function and had a (p, d, q)(P, D, Q, m) of (1, 0, 0)(0, 0, 0, 0). 
 Final Model:
 
-The final model was a Long Short-term memory neural network that had an LSTM layer and a Dense (16) layer. It used 4 neurons with a batch size of 10.
+Neural Network:
 
-Model Results
-Parameter Tuning:
+The final model was a Long Short-term memory neural network that had an LSTM layer and a Dense (16) layer. It used 4 neurons with a batch size of 10. The model was not accurate in predicting th eprice of bitcoin, and had a 40% accuracy rate in determining whether the price would increase or decrease.
+
 
 Recommendations:
 Our recommendation is for everyday cryptocurrency investors to use our model as a baseline model and work from there. Whether that means actually coding to enhance the model or using the model in addition to other things to help make decisions when investing. The findings from this research also indicate that there will likely never be a truly accurate prediction model for cryptocurrencies or even stocks for that matter. This is because of something that we can learn from the model, that being that the price of bitcoin depends on far more than simply the recent prices and volumes.
